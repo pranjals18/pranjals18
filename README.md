@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shindept2003@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1YSZLkBhNAoagvgrGUmiWj4R-SRbMexFh/view?usp=sharing](https://drive.google.com/file/d/1YSZLkBhNAoagvgrGUmiWj4R-SRbMexFh/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1babePRyL0EASC40OBFnnoefJ3vRyiFlp/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
