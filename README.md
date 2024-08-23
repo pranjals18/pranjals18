@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shindept2003@gmail.com**
 
-- 📄 Know about my experiences [pranjalshinde.vercel.app]
+- 📄 Know about my experiences [http://pranjalshinde.vercel.app]
 
 - 📄 Resume [https://drive.google.com/file/d/1babePRyL0EASC40OBFnnoefJ3vRyiFlp/view?usp=sharing]
 
