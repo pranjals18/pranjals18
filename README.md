@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **MERN stack**
 
-- 📫 How to reach me **shindept2003@gmail.com**
+- 📫 How to reach me **pranjalshinde.dev@gmail.com**
 
 - 📄 Know about my experiences: http://pranjalshinde.vercel.app
 
-- 📄 Resume: https://drive.google.com/file/d/1HflSlg61tAduTNKKMUBBMjiRwj-ZpBbm/view?usp=sharing
+- 📄 Resume: https://drive.google.com/file/d/1hK3EFX19rYnZnonX6AINBZhsiVoT--K1/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
