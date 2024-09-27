@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranjal Shinde</h1>
-<h3 align="center">Pre-final year student at Indian Institute of Information Technology, Dharwad. Full stack Web Developer with experience and expertise in front-end and back-end web application development</h3>
+<h3 align="center">Final year student at Indian Institute of Information Technology, Dharwad. Full stack Web Developer with experience and expertise in front-end and back-end web application development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranjalshinde18&label=Profile%20views&color=0e75b6&style=flat" alt="pranjalshinde18" /> </p>
 
