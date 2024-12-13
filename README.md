@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences: http://pranjalshinde.vercel.app
 
-- 📄 Resume: [Resume](https://drive.google.com/file/d/1S7By1zAg5wBcrgpMbRFqR7OLg0RxS-Fd/view)
+- 📄 Resume: [Pranjal Shinde](https://drive.google.com/file/d/1S7By1zAg5wBcrgpMbRFqR7OLg0RxS-Fd/view)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
