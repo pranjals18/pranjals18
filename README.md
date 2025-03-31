@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **pranjalshinde.dev@gmail.com**
 
-- 📄 Know about my experiences: [Portfolio](htp://pranjalshinde.vercel.app)
+- 📄 Know about my experiences: [Portfolio](https://pranjalshinde.vercel.app/)
 
 - 📄 Resume: [Pranjal Shinde](https://drive.google.com/file/d/1S7By1zAg5wBcrgpMbRFqR7OLg0RxS-Fd/view)
 
